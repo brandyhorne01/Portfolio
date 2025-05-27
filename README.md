@@ -47,8 +47,8 @@ Forecasted truck resale prices over five years using ARIMA and Prophet. Supporte
 ### [📊 Generalized Additive Modeling](https://github.com/brandyanalytics/gam-mileage-analysis)
 Built a GAM to analyze nonlinear depreciation across mileage bands. Insights improved vehicle pricing models.
 
-### [⏳ Survival Analysis for Trade-Ins](https://github.com/brandyanalytics/survival-truck-tradeins)
-Created a survival model to estimate trade-in probabilities. Results deployed via Tableau dashboards for planning logistics.
+### [⏳ Survival Analysis for Trade-Ins](https://github.com/brandyhorne01/Asset-Trade-In-Probability.git)
+Created a survival model to estimate trade-in probabilities. Results were deployed via Tableau dashboards for planning logistics.
 
 ### [🎯 Marketing Segmentation & Campaigns](https://github.com/brandyanalytics/marketing-lifecycle-analysis)
 Led data-driven customer segmentation and lifecycle marketing campaigns. Boosted engagement and optimized ROI.
