@@ -1,0 +1,64 @@
+# Site settings
+title: Brandy Horne - Data Scientist
+description: >
+  Data scientist with a passion for clarity, strategy, and storytelling. Expert in time series, survival analysis, regression modeling, and translating data into business impact.
+baseurl: "" 
+url: "https://brandyanalytics.github.io" # Replace with your actual GitHub Pages URL
+theme: jekyll-theme-minimal
+
+# Author settings
+name: Brandy Michelle Horne
+email: Brandyhorne01@gmail.com
+phone: 980-989-2003
+location: Charlotte, NC
+linkedin_username: brandyhorne01
+github_username: brandyanalytics
+
+# Profile summary
+summary: >
+  Experienced Data Scientist and Business Analyst with a strong background in predictive modeling, business intelligence, and process optimization. Proven ability to translate complex data into actionable insights using advanced analytics, statistical modeling, and interactive dashboards. Passionate about aligning data solutions with strategic goals.
+
+# Education
+education:
+  - degree: Master of Data Science
+    school: South Dakota State University
+    gpa: 3.8
+  - degree: B.S. in Psychology
+    school: University of North Carolina Charlotte
+    gpa: 4.0
+  - degree: B.S. in Economics
+    school: University of North Carolina Charlotte
+    gpa: 3.6
+
+# Skills
+technical_skills:
+  - Python, R, SQL
+  - Time Series Forecasting (ARIMA, SARIMAX, Prophet)
+  - Survival Analysis (Kaplan-Meier, Cox Proportional Hazards)
+  - Regression (Linear, Logistic, GAMs)
+  - Machine Learning (Scikit-learn, XGBoost)
+  - Tableau, Power BI, Alteryx
+  - Microsoft SQL Server, Snowflake, SAP HANA
+  - Agile, Lean Six Sigma (Green Belt)
+
+# Projects
+projects:
+  - title: Time Series Forecasting
+    description: Forecasted truck resale prices over five years using ARIMA and Prophet. Results supported pricing and inventory strategy decisions.
+    url: https://github.com/brandyanalytics/time-series-pricing
+
+  - title: Generalized Additive Modeling
+    description: Built a GAM to analyze nonlinear depreciation across mileage bands. Insights enhanced pricing decisions for used vehicles.
+    url: https://github.com/brandyanalytics/gam-mileage-analysis
+
+  - title: Survival Analysis for Trade-Ins
+    description: Created a survival model to estimate trade-in probabilities. Deployed interactive Tableau dashboards to assist logistics planning.
+    url: https://github.com/brandyanalytics/survival-truck-tradeins
+
+  - title: Marketing Segmentation & Campaigns
+    description: Led data-driven segmentation and targeted lifecycle campaigns to increase customer engagement and improve ROI.
+    url: https://github.com/brandyanalytics/marketing-lifecycle-analysis
+
+# Footer
+footer:
+  text: "Built with 💻 by Brandy Horne | © 2025"
