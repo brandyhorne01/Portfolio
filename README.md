@@ -41,7 +41,7 @@ Agile Methodologies, Lean Six Sigma (Green Belt)
 
 ## 📂 Projects
 
-### [📈 Time Series Forecasting](https://github.com/brandyanalytics/time-series-pricing)
+### [📈 Time Series Forecasting](https://github.com/brandyhorne01/Product-Value-Predictor)
 Forecasted truck resale prices over five years using ARIMA and Prophet. Supported pricing and inventory strategy decisions.
 
 ### [📊 Generalized Additive Modeling](https://github.com/brandyanalytics/gam-mileage-analysis)
