@@ -12,11 +12,7 @@ My work combines **machine learning, predictive analytics, business intelligence
 
 I specialize in designing end-to-end analytics solutions—from **data engineering and predictive modeling** to **executive dashboards and AI-powered automation**. Whether I'm developing forecasting models, building AI agents, or engineering analytics platforms, my focus is always on creating solutions that deliver measurable business value.
 
-> **Turn complex data into confident business decisions.**
-
 <br clear="left"/>
-
-> **Turn complex data into confident business decisions.**
 
 ---
 
