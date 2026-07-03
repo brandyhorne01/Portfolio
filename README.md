@@ -3,7 +3,7 @@
 ## Data Scientist | AI Solutions Engineer | Analytics Consultant
 
 <p align="center">
-  <img src="images/image.png" width="1000">
+  <img src="images/Image.png" width="300">
 </p>
 
 ---
