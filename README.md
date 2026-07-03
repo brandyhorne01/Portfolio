@@ -2,19 +2,19 @@
 
 ## Data Scientist | AI Solutions Engineer | Analytics Consultant
 
-<p align="center">
-  <img src="images/Image.jpg" width="300">
-</p>
+## 📌 About Me
 
----
+<img src="images/Image.jpg" align="left" width="220" style="margin-right:25px; border-radius:10px;" />
 
-# 📌 About Me
+I'm a **Data Scientist and AI Solutions Engineer** passionate about building intelligent systems that transform complex data into actionable business decisions.
 
-I'm a Data Scientist and AI Solutions Engineer passionate about building intelligent systems that transform complex data into actionable business decisions.
+My work combines **machine learning, predictive analytics, business intelligence, digital analytics, and AI automation** to solve real-world business problems. From forecasting commercial asset values and predicting customer behavior to auditing Google Analytics implementations with AI agents, I enjoy designing scalable solutions that bridge technical complexity with business strategy.
 
-My work combines machine learning, predictive analytics, business intelligence, digital analytics, and AI automation to solve real-world business problems. From forecasting commercial asset values and predicting customer behavior to auditing Google Analytics implementations with AI agents, I enjoy designing scalable solutions that bridge technical complexity with business strategy.
+I specialize in designing end-to-end analytics solutions—from **data engineering and predictive modeling** to **executive dashboards and AI-powered automation**. Whether I'm developing forecasting models, building AI agents, or engineering analytics platforms, my focus is always on creating solutions that deliver measurable business value.
 
-I specialize in designing end-to-end analytics solutions—from data engineering and predictive modeling to executive dashboards and AI-powered automation. My goal is always the same:
+> **Turn complex data into confident business decisions.**
+
+<br clear="left"/>
 
 > **Turn complex data into confident business decisions.**
 
